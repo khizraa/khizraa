@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khizraa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning css and bootstrap.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
