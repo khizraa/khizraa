@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khizraa
+- 👋 Hi, I’m @khizra faisal
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning css and bootstrap.
 - 💞️ I’m looking to collaborate on ...
